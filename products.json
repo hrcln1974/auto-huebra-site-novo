@@ -1,56 +1,8 @@
 [
-  {
-    "id": 1,
-    "nome": "Bateria automotiva nova",
-    "cat": "Baterias",
-    "preco": "",
-    "estoque": 10,
-    "img": "img/baterias.webp",
-    "desc": "Baterias novas para carros, vans e caminhões. Teste e instalação na oficina."
-  },
-  {
-    "id": 2,
-    "nome": "Filtro de cabine (ar-condicionado)",
-    "cat": "Ar-condicionado",
-    "preco": "",
-    "estoque": 15,
-    "img": "img/filtro.webp",
-    "desc": "Filtro de ar-condicionado e higienizador para ar limpo e gelado."
-  },
-  {
-    "id": 3,
-    "nome": "Módulos de alarme e rastreamento Tech One",
-    "cat": "Acessórios",
-    "preco": "",
-    "estoque": 6,
-    "img": "img/tech-one.webp",
-    "desc": "Linha Tech One para segurança e conforto do veículo."
-  },
-  {
-    "id": 4,
-    "nome": "Alto-falantes e som automotivo",
-    "cat": "Som e multimídia",
-    "preco": "",
-    "estoque": 8,
-    "img": "img/som.webp",
-    "desc": "Alto-falantes, módulos e som com instalação profissional."
-  },
-  {
-    "id": 5,
-    "nome": "Central multimídia",
-    "cat": "Som e multimídia",
-    "preco": "",
-    "estoque": 4,
-    "img": "img/multimidia-instalacao.webp",
-    "desc": "Centrais multimídia com CarPlay/Android Auto, instaladas na oficina."
-  },
-  {
-    "id": 6,
-    "nome": "Relés, sensores e peças elétricas",
-    "cat": "Peças elétricas",
-    "preco": "",
-    "estoque": 40,
-    "img": "img/pecas.webp",
-    "desc": "Estoque de peças elétricas para reposição imediata."
-  }
+{"id":1,"nome":"Bateria automotiva nova","cat":"Baterias","preco":"","estoque":10,"img":"img/baterias.webp","desc":"Baterias novas para carros, vans e caminhões. Teste e instalação na oficina."},
+{"id":2,"nome":"Filtro de cabine (ar-condicionado)","cat":"Ar-condicionado","preco":"","estoque":15,"img":"img/filtro.webp","desc":"Filtro de ar-condicionado e higienizador para ar limpo e gelado."},
+{"id":3,"nome":"Módulos de alarme e rastreamento Tech One","cat":"Acessórios","preco":"","estoque":6,"img":"img/tech-one.webp","desc":"Linha Tech One para segurança e conforto do veículo."},
+{"id":4,"nome":"Alto-falantes e som automotivo","cat":"Som e multimídia","preco":"","estoque":8,"img":"img/som.webp","desc":"Alto-falantes, módulos e som com instalação profissional."},
+{"id":5,"nome":"Central multimídia","cat":"Som e multimídia","preco":"","estoque":4,"img":"img/multimidia-instalacao.webp","desc":"Centrais multimídia com CarPlay/Android Auto, instaladas na oficina."},
+{"id":6,"nome":"Relés, sensores e peças elétricas","cat":"Peças elétricas","preco":"","estoque":40,"img":"img/pecas.webp","desc":"Estoque de peças elétricas para reposição imediata."}
 ]

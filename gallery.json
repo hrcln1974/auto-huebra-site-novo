@@ -1,0 +1,96 @@
+{
+  "photos": [
+    {
+      "id": "estoque",
+      "type": "image",
+      "title": "Estoque de peças e módulos",
+      "src": "img/estoque.webp"
+    },
+    {
+      "id": "pecas",
+      "type": "image",
+      "title": "Prateleiras de peças e som automotivo",
+      "src": "img/pecas.webp"
+    },
+    {
+      "id": "tech-one",
+      "type": "image",
+      "title": "Linha Tech One",
+      "src": "img/tech-one.webp"
+    },
+    {
+      "id": "som",
+      "type": "image",
+      "title": "Som automotivo",
+      "src": "img/som.webp"
+    },
+    {
+      "id": "diagnostico",
+      "type": "image",
+      "title": "Diagnóstico automotivo",
+      "src": "img/diagnostico.webp"
+    },
+    {
+      "id": "tecnico",
+      "type": "image",
+      "title": "Equipamento de diagnóstico",
+      "src": "img/tecnico.webp"
+    },
+    {
+      "id": "tecnico2",
+      "type": "image",
+      "title": "Teste de bateria",
+      "src": "img/tecnico2.webp"
+    },
+    {
+      "id": "multimidia",
+      "type": "image",
+      "title": "Instalação de central multimídia",
+      "src": "img/multimidia-instalacao.webp"
+    },
+    {
+      "id": "filtro",
+      "type": "image",
+      "title": "Filtro de ar-condicionado",
+      "src": "img/filtro.webp"
+    },
+    {
+      "id": "traga-pra-nos",
+      "type": "image",
+      "title": "Revisão elétrica",
+      "src": "img/traga-pra-nos.webp"
+    }
+  ],
+  "videos": [
+    {
+      "id": "oficina",
+      "title": "Conheça a oficina",
+      "url": "video/oficina.mp4",
+      "poster": "video/oficina.jpg"
+    },
+    {
+      "id": "servico-1",
+      "title": "Serviço na oficina",
+      "url": "video/servico-1.mp4",
+      "poster": "video/servico-1.jpg"
+    },
+    {
+      "id": "servico-2",
+      "title": "Serviço automotivo",
+      "url": "video/servico-2.mp4",
+      "poster": "video/servico-2.jpg"
+    },
+    {
+      "id": "servico-3",
+      "title": "Mais um trabalho",
+      "url": "video/servico-3.mp4",
+      "poster": "video/servico-3.jpg"
+    },
+    {
+      "id": "dicas",
+      "title": "Dicas automotivas",
+      "url": "video/dicas.mp4",
+      "poster": "video/dicas.jpg"
+    }
+  ]
+}

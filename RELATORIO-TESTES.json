@@ -1,0 +1,76 @@
+{
+  "javascript_syntax": {
+    "admin.js": true,
+    "config.js": true,
+    "main.js": true
+  },
+  "html_parse": {
+    "politica-de-privacidade.html": true,
+    "servicos.html": true,
+    "produtos.html": true,
+    "obrigado.html": true,
+    "index.html": true,
+    "galeria.html": true,
+    "contato.html": true,
+    "admin.html": true,
+    "404.html": true
+  },
+  "missing_local_references": [],
+  "feature_checks": {
+    "admin_gallery_tab": true,
+    "admin_gallery_upload": true,
+    "admin_video_links": true,
+    "gallery_json_export": true,
+    "public_gallery_photo_mount": true,
+    "public_gallery_video_mount": true,
+    "homepage_hero_first": true,
+    "gallery_data_valid": true
+  },
+  "local_http": {
+    "/index.html": [
+      200,
+      "text/html",
+      "11303"
+    ],
+    "/admin.html": [
+      200,
+      "text/html",
+      "4255"
+    ],
+    "/galeria.html": [
+      200,
+      "text/html",
+      "4861"
+    ],
+    "/main.js": [
+      200,
+      "text/javascript",
+      "7281"
+    ],
+    "/admin.js": [
+      200,
+      "text/javascript",
+      "8863"
+    ],
+    "/gallery.json": [
+      200,
+      "application/json",
+      "2129"
+    ],
+    "/img/banner.webp": [
+      200,
+      "image/webp",
+      "136104"
+    ],
+    "/img/whatsapp.svg": [
+      200,
+      "image/svg+xml",
+      "551"
+    ]
+  },
+  "notes": [
+    "A autenticação administrativa atual é apenas front-end e não é segura contra acesso técnico.",
+    "Novas fotos/vídeos são gravados no localStorage do navegador do administrador até exportar gallery.json e publicar o arquivo.",
+    "Formulário depende de endpoint externo configurado em config.js para envio real."
+  ]
+}
